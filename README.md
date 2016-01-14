@@ -1,0 +1,1 @@
+This project gets an equation and solves it heuristically
